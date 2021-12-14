@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/running_page`, // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Running Page',
+    siteTitle: 'Ziloong.Running',
     siteUrl: 'https://running-page-ziloon.vercel.app/',
     logo: 'https://s2.loli.net/2021/12/14/xEFBOwetslWMdic.jpg',
     description: 'Personal site and blog',
